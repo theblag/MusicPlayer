@@ -14,9 +14,15 @@ MPlayer is a web-based music player designed with a sleek and dynamic user inter
 
 ---
 
+## Instructions
+
+- **Songs:** I have'nt uploaded any songs. You may download any song, of your choice, and organise it.
+
+---
+
 ## Resources Used
 
-1. **Songs**: Sourced from [Pixabay](https://pixabay.com) and [FreeToUse.com](https://freetouse.com).  
+1. **Songs**: You are free to download and use any song of your choice.  
 2. **Album Cover Images**: Retrieved from [FreeToUse.com](https://freetouse.com).  
 3. **SVG Icons**: Retrieved from [Huge Icons](https://hugeicons.com).  
 4. **Placeholders**: Some hyperlinks and sections are placeholders that can be updated.
@@ -28,6 +34,7 @@ MPlayer is a web-based music player designed with a sleek and dynamic user inter
 This project was created to:
 
 - Explore and demonstrate the core features of a music player.
+- To learn, practice and improve knowledge about web devolepment and for Educational purpouses.
 - Provide a learning resource for building interactive and responsive web applications.
 
 ---
@@ -52,9 +59,8 @@ This project was created to:
 ## Acknowledgments
 
 - Thanks to **Huge Icons** for providing the SVG icons.
-- Thanks to [Pixabay](https://pixabay.com) and [FreeToUse.com](https://freetouse.com) for the free songs and album cover resources.
+- Thanks [FreeToUse.com](https://freetouse.com) for album cover resources.
 - Special acknowledgment to **Code with Harry** for the tutorial that inspired this project. Check out his YouTube channel [here](https://www.youtube.com/@CodeWithHarry).
-- Thanks to all the tutorials and resources that aided in developing this project.
 
 ---
 
