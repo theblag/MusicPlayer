@@ -64,6 +64,12 @@ This project was created to:
 
 ---
 
+## Screenshot
+
+![Screenshot of Twitter Clone](MPlayer/mplayer_ss.png "Twitter Clone Preview")
+
+---
+
 ## License
 
 This project is licensed under the MIT License.
